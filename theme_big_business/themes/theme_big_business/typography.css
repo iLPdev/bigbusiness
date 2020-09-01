@@ -1,0 +1,69 @@
+/*
+Big Business Theme for Concrete5 by iLP - http://www.concrete5.org/profile/-/view/82852/
+Based on an Original Design by Free CSS Templates - http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 3.0 License
+Name       : Big Business Theme for concrete5
+Description: A two-column, fixed-width design with clean, professional look and a bright color scheme.
+Version    : 0.9.8
+Released   : 20120923
+*/
+a {
+	text-decoration: underline;
+	/* customize_link */ color: #0F8C8C; /* customize_link */
+}
+a:hover {
+	text-decoration: none;
+	/* customize_link_hover */ color: #0F8C8C; /* customize_link_hover */
+}
+body {
+	font-size: 11.5pt;
+	/* customize_body */color: #5C5B5B; /* customize_body */
+	line-height: 1.75em;
+}
+body,input {
+	font-family: Georgia, serif;
+}
+.c5wrapper, .mceContentBody h1,h2,h3,h4 {
+	font-weight: normal;
+	letter-spacing: -1px;
+}
+.c5wrapper, .mceContentBody h2 {
+	font-size: 2.25em;
+}
+.c5wrapper, .mceContentBody h2,h3,h4 {
+	color: #2C2B2B;
+	margin-bottom: 1em;
+}
+.c5wrapper, .mceContentBody h3 {
+	font-size: 1.75em;
+}
+.c5wrapper, .mceContentBody h4 {
+	font-size: 1.5em;
+}
+p {
+	margin-bottom: 1.5em;
+}
+ul {
+	margin-bottom: 1.5em;
+}
+ul h4 {
+	margin-bottom: 0.35em;
+}
+.date {
+	background: #6E6E6E;
+	padding: 5px 6px 5px 6px;
+	margin: 0 0px 0 0;
+	color: #FFFFFF;
+	font-size: 0.8em;
+	border-radius: 2px;
+}
+img.image-border {
+	padding: 5px;
+	border: solid 1px #D4D4D4;
+}
+.shadow {
+	text-shadow: 0 1px 1px #3E3E3E;
+}
+.strong {
+	color: #2C2B2B;
+}
