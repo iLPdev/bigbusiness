@@ -1,2 +1,2 @@
 # Big Business
-The Big Business Theme for concrete5 is no longer under development. It exists here as an artifact of 2013. 
+My Big Business theme for concrete5 ceased development in 2012.
